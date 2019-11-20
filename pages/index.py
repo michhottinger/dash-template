@@ -16,7 +16,7 @@ column1 = dbc.Col(
         dcc.Markdown(
             """
         
-            ## Earthquake Measurement Components
+            ## Earthquakes in California Region
 
             Ever wondered what the measurements behind each earthquake indicate about the magnitude of the quake?
 
